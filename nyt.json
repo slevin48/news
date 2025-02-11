@@ -1,0 +1,1859 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "Technology",
+    "last_updated": "2025-02-10T16:58:37-05:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elon Musk Leads $97.4 Billion Bid to Control OpenAI",
+            "abstract": "The billionaire is leading a group of investors in the unsolicited offer, which complicates the start-up\u2019s plan to raise more money.",
+            "url": "https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html",
+            "uri": "nyt://article/d3b82238-097b-5a8b-ba88-4b2180ef9803",
+            "byline": "By Mike Isaac, Cade Metz and David A. Fahrenthold",
+            "item_type": "Article",
+            "updated_date": "2025-02-10T19:40:10-05:00",
+            "created_date": "2025-02-10T16:22:17-05:00",
+            "published_date": "2025-02-10T16:22:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mergers, Acquisitions and Divestitures",
+                "Start-ups",
+                "Artificial Intelligence",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "OpenAI",
+                "OpenAI Labs",
+                "SOFTBANK Corporation"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Altman, Samuel H"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10openai-musk-hfo-tblm/10openai-musk-hfo-tblm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol building in Washington last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10openai-musk-hfo-tblm/10openai-musk-hfo-tblm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol building in Washington last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10openai-musk-hfo-tblm/10openai-musk-hfo-tblm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol building in Washington last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "5 Notes From the Big A.I. Summit in Paris",
+            "abstract": "At times, Kevin Roose writes, it feels like he is watching policymakers on horseback trying to install seatbelts on a passing Lamborghini.",
+            "url": "https://www.nytimes.com/2025/02/10/technology/ai-summit-paris-technology.html",
+            "uri": "nyt://article/f0cd8287-14d7-5f2b-b80e-eae1072fb01a",
+            "byline": "By Kevin Roose",
+            "item_type": "Article",
+            "updated_date": "2025-02-10T15:15:26-05:00",
+            "created_date": "2025-02-10T15:15:26-05:00",
+            "published_date": "2025-02-10T15:15:26-05:00",
+            "material_type_facet": "",
+            "kicker": "The shift",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Regulation and Deregulation of Industry",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "DeepSeek Artificial Intelligence Co Ltd",
+                "Google Inc"
+            ],
+            "per_facet": [
+                "Hassabis, Demis",
+                "Vance, J D",
+                "Macron, Emmanuel (1977- )"
+            ],
+            "geo_facet": [
+                "Europe",
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/00roose-phfg/phfg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France\u2019s president, Emmanuel Macron, speaking at the Artificial Intelligence Action Summit in Paris on Monday. He has argued against regulations that could make France\u2019s tech sector less competitive.",
+                    "copyright": "Ludovic Marin/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/00roose-phfg/phfg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France\u2019s president, Emmanuel Macron, speaking at the Artificial Intelligence Action Summit in Paris on Monday. He has argued against regulations that could make France\u2019s tech sector less competitive.",
+                    "copyright": "Ludovic Marin/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/00roose-phfg/phfg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "France\u2019s president, Emmanuel Macron, speaking at the Artificial Intelligence Action Summit in Paris on Monday. He has argued against regulations that could make France\u2019s tech sector less competitive.",
+                    "copyright": "Ludovic Marin/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Early Crypto Traders Had Speedy Profit on Trump Coin as Others Suffered Losses",
+            "abstract": "Some traders made tens of millions off a new cryptocurrency launched by President Trump and his sons. Many others lost out.",
+            "url": "https://www.nytimes.com/2025/02/09/us/politics/trump-crypto-memecoin.html",
+            "uri": "nyt://article/f681bf9b-c830-55c1-9be5-95c7f30fc7cb",
+            "byline": "By Eric Lipton and David Yaffe-Bellany",
+            "item_type": "Article",
+            "updated_date": "2025-02-10T18:05:54-05:00",
+            "created_date": "2025-02-09T05:00:27-05:00",
+            "published_date": "2025-02-09T05:00:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Virtual Currency",
+                "Insider Trading",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Trump Media & Technology Group"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-trump-crypto-clth/03dc-trump-crypto-clth-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1365,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump set off a boom-and-bust sequence three days before he was inaugurated when he announced that his family had issued a cryptocurrency.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-trump-crypto-clth/03dc-trump-crypto-clth-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump set off a boom-and-bust sequence three days before he was inaugurated when he announced that his family had issued a cryptocurrency.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-trump-crypto-clth/03dc-trump-crypto-clth-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump set off a boom-and-bust sequence three days before he was inaugurated when he announced that his family had issued a cryptocurrency.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "How Sam Altman Sidestepped Elon Musk to Win Over Donald Trump",
+            "abstract": "After helping President Trump get elected, Elon Musk was poised to dominate the country\u2019s A.I. policies. Then Mr. Altman sneaked into the White House.",
+            "url": "https://www.nytimes.com/2025/02/08/technology/sam-altman-elon-musk-trump.html",
+            "uri": "nyt://article/fa5d0071-24b5-57d6-9e68-6c592806380e",
+            "byline": "By Cecilia Kang and Cade Metz",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T12:21:12-05:00",
+            "created_date": "2025-02-08T05:01:01-05:00",
+            "published_date": "2025-02-08T05:01:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "United States Politics and Government",
+                "Computers and the Internet",
+                "Inaugurations",
+                "Data Centers"
+            ],
+            "org_facet": [
+                "OpenAI Labs",
+                "Oracle Corporation",
+                "SOFTBANK Corporation"
+            ],
+            "per_facet": [
+                "Altman, Samuel H",
+                "Trump, Donald J",
+                "Ellison, Lawrence J",
+                "Son, Masayoshi",
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/multimedia/00altman-trump-tbqz/00altman-trump-tbqz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "OpenAI\u2019s Sam Altman at President Trump\u2019s announcement of the new A.I. infrastructure \u201cStargate\u201d at the White House last month.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/multimedia/00altman-trump-tbqz/00altman-trump-tbqz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "OpenAI\u2019s Sam Altman at President Trump\u2019s announcement of the new A.I. infrastructure \u201cStargate\u201d at the White House last month.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/multimedia/00altman-trump-tbqz/00altman-trump-tbqz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "OpenAI\u2019s Sam Altman at President Trump\u2019s announcement of the new A.I. infrastructure \u201cStargate\u201d at the White House last month.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Macron Pitches Lighter Regulation to Fuel A.I. Boom in Europe",
+            "abstract": "But many attendees at a summit in Paris worry that the risks of A.I. will be overlooked as the continent rushes to keep up with the United States and China.",
+            "url": "https://www.nytimes.com/2025/02/10/business/ai-summit-paris.html",
+            "uri": "nyt://article/00a3e963-3ae1-58f7-8895-977de8a1a8ab",
+            "byline": "By Aurelien Breeden and Liz Alderman",
+            "item_type": "Article",
+            "updated_date": "2025-02-10T14:21:45-05:00",
+            "created_date": "2025-02-10T11:28:55-05:00",
+            "published_date": "2025-02-10T11:28:55-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Innovation",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "OpenAI Labs",
+                "Mistral AI SAS"
+            ],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )",
+                "Altman, Samuel H"
+            ],
+            "geo_facet": [
+                "Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10france-ai-vqzc/10france-ai-vqzc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Artificial Intelligence Action Summit at the Grand Palais in Paris, where participants debated the development and risks of artificial intelligence.",
+                    "copyright": "Benoit Tessier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10france-ai-vqzc/10france-ai-vqzc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Artificial Intelligence Action Summit at the Grand Palais in Paris, where participants debated the development and risks of artificial intelligence.",
+                    "copyright": "Benoit Tessier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/multimedia/10france-ai-vqzc/10france-ai-vqzc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Artificial Intelligence Action Summit at the Grand Palais in Paris, where participants debated the development and risks of artificial intelligence.",
+                    "copyright": "Benoit Tessier/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "What DeepSeek\u2019s Success Says About China\u2019s Ability to Nurture Talent",
+            "abstract": "China produces a vast number of STEM graduates, but it hasn\u2019t been known for innovation. Cultural and political factors may help explain why.",
+            "url": "https://www.nytimes.com/2025/02/10/world/asia/china-deepseek-education.html",
+            "uri": "nyt://article/219fe934-cbd5-5249-bb25-2d659bac18c9",
+            "byline": "By Vivian Wang",
+            "item_type": "Article",
+            "updated_date": "2025-02-10T09:18:04-05:00",
+            "created_date": "2025-02-10T00:01:06-05:00",
+            "published_date": "2025-02-10T00:01:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Innovation",
+                "Artificial Intelligence",
+                "Computers and the Internet",
+                "Colleges and Universities",
+                "Research"
+            ],
+            "org_facet": [
+                "DeepSeek Artificial Intelligence Co Ltd"
+            ],
+            "per_facet": [
+                "Liang Wenfeng",
+                "Durov, Pavel Valeryevich (1984- )",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "United States",
+                "Zhejiang Province (China)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/world/10china-deepseek-education/10china-deepseek-education-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1371,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A student preparing for the 2025 national postgraduate entrance exam at Hebei University of Engineering in Handan, China, in December.",
+                    "copyright": "Costfoto/NurPhoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/world/10china-deepseek-education/10china-deepseek-education-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A student preparing for the 2025 national postgraduate entrance exam at Hebei University of Engineering in Handan, China, in December.",
+                    "copyright": "Costfoto/NurPhoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/10/world/10china-deepseek-education/10china-deepseek-education-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A student preparing for the 2025 national postgraduate entrance exam at Hebei University of Engineering in Handan, China, in December.",
+                    "copyright": "Costfoto/NurPhoto, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "Cyberattack Disrupts Publication of Lee Newspapers Across the U.S.",
+            "abstract": "The media company Lee Enterprises said a \u201ccybersecurity event\u201d had created havoc at dozens of its newspapers, prompting some to publish shorter editions or not print at all.",
+            "url": "https://www.nytimes.com/2025/02/09/business/media/newspaper-cyberattack-lee-enterprises.html",
+            "uri": "nyt://article/16e0e423-c791-51a5-8834-a540cabdd461",
+            "byline": "By Amanda Holpuch",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T18:51:00-05:00",
+            "created_date": "2025-02-09T13:28:43-05:00",
+            "published_date": "2025-02-09T13:28:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Newspapers",
+                "Cyberattacks and Hackers",
+                "Media",
+                "Computer Security",
+                "Computers and the Internet",
+                "Delivery Services"
+            ],
+            "org_facet": [
+                "Buffalo News",
+                "Daily Progress, The (Newspaper)",
+                "Lee Enterprises Inc",
+                "Omaha World-Herald",
+                "Press of Atlantic City",
+                "St Louis Post-Dispatch"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/business/09xp-cyberattack1/09xp-cyberattack1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1253,
+                    "width": 1878,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The St. Louis Post-Dispatch at its old building. The newspaper was one of multiple Lee Enterprises newspapers affected by a cyberattack that started last week. ",
+                    "copyright": "Tom Gannam/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/business/09xp-cyberattack1/09xp-cyberattack1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The St. Louis Post-Dispatch at its old building. The newspaper was one of multiple Lee Enterprises newspapers affected by a cyberattack that started last week. ",
+                    "copyright": "Tom Gannam/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/09/business/09xp-cyberattack1/09xp-cyberattack1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The St. Louis Post-Dispatch at its old building. The newspaper was one of multiple Lee Enterprises newspapers affected by a cyberattack that started last week. ",
+                    "copyright": "Tom Gannam/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Microsoft and Nvidia: The Tech Giants Taking a Quieter Approach to Trump",
+            "abstract": "Other big technology companies have been boisterous in their courtship of the new administration. But Nvidia and Microsoft have avoided the Washington spotlight.",
+            "url": "https://www.nytimes.com/2025/02/08/technology/microsoft-nvidia-trump.html",
+            "uri": "nyt://article/238aafd2-fc58-5794-8478-a80bb3ccf94e",
+            "byline": "By Karen Weise and Tripp Mickle",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T23:10:54-05:00",
+            "created_date": "2025-02-08T05:00:57-05:00",
+            "published_date": "2025-02-08T05:00:57-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Computer Chips",
+                "Data Centers",
+                "Artificial Intelligence",
+                "United States Politics and Government",
+                "Inaugurations"
+            ],
+            "org_facet": [
+                "Microsoft Corp",
+                "NVIDIA Corporation"
+            ],
+            "per_facet": [
+                "Huang, Jen-Hsun",
+                "Nadella, Satya",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/business/00techgiants-trump-combo/00techgiants-trump-combo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1406,
+                    "width": 1892,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Microsoft\u2019s Satya Nadella, left, and Nvidia\u2019s Jensen Huang have quietly met with President Trump.",
+                    "copyright": "Grant Hindsley for The New York Times; Patrick T. Fallon/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/business/00techgiants-trump-combo/00techgiants-trump-combo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Microsoft\u2019s Satya Nadella, left, and Nvidia\u2019s Jensen Huang have quietly met with President Trump.",
+                    "copyright": "Grant Hindsley for The New York Times; Patrick T. Fallon/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/business/00techgiants-trump-combo/00techgiants-trump-combo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Microsoft\u2019s Satya Nadella, left, and Nvidia\u2019s Jensen Huang have quietly met with President Trump.",
+                    "copyright": "Grant Hindsley for The New York Times; Patrick T. Fallon/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What DeepSeek? Big Tech Keeps Its A.I. Building Boom Alive.",
+            "abstract": "An apparent breakthrough in efficiency from the Chinese start-up did not make tech\u2019s biggest companies question their extravagant spending on new data centers.",
+            "url": "https://www.nytimes.com/2025/02/08/technology/deepseek-data-centers-ai.html",
+            "uri": "nyt://article/4faac88a-afe7-50c8-8383-677a64b2832a",
+            "byline": "By Karen Weise",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T19:31:29-05:00",
+            "created_date": "2025-02-08T03:00:29-05:00",
+            "published_date": "2025-02-08T03:00:29-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Computers and the Internet",
+                "Data Centers",
+                "Cloud Computing",
+                "Company Reports"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Amazon.com Inc",
+                "DeepSeek Artificial Intelligence Co Ltd",
+                "Meta Platforms Inc",
+                "Microsoft Corp"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/07TECHSPENDING-hqkw/07TECHSPENDING-hqkw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Construction for a new Microsoft data center in East Wenatchee, Wash.",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/07TECHSPENDING-hqkw/07TECHSPENDING-hqkw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Construction for a new Microsoft data center in East Wenatchee, Wash.",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/07TECHSPENDING-hqkw/07TECHSPENDING-hqkw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Construction for a new Microsoft data center in East Wenatchee, Wash.",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "A.I. Military Start-Up Anduril Close to Deal That Would Value It at $28 Billion",
+            "abstract": "The Southern California start-up, which builds flying drones and missiles, is set to raise up to $2.5 billion.",
+            "url": "https://www.nytimes.com/2025/02/07/technology/anduril-funding-valuation-28-billion.html",
+            "uri": "nyt://article/eacb7a68-4087-5a10-a6c0-b09b9064b6b4",
+            "byline": "By Erin Griffith and Cade Metz",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T23:14:46-05:00",
+            "created_date": "2025-02-07T18:20:20-05:00",
+            "published_date": "2025-02-07T18:20:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "Artificial Intelligence",
+                "Start-ups",
+                "Venture Capital",
+                "United States Politics and Government",
+                "Defense Contracts",
+                "United States Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Anduril Industries Inc"
+            ],
+            "per_facet": [
+                "Thiel, Peter A",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07anduril-1-wtcp/07anduril-1-wtcp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An employee demonstrates some of Anduril\u2019s A.I. technology, in 2021.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07anduril-1-wtcp/07anduril-1-wtcp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An employee demonstrates some of Anduril\u2019s A.I. technology, in 2021.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07anduril-1-wtcp/07anduril-1-wtcp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An employee demonstrates some of Anduril\u2019s A.I. technology, in 2021.",
+                    "copyright": "Philip Cheung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "OpenAI Close to Deal That Values Company at $300 Billion",
+            "abstract": "The Japanese conglomerate SoftBank would invest up to $40 billion in the maker of the chatbot ChatGPT.",
+            "url": "https://www.nytimes.com/2025/02/07/technology/openai-softbank-investment.html",
+            "uri": "nyt://article/d3d12dc8-3e53-5628-92a9-72b78d442e30",
+            "byline": "By Cade Metz and Lauren Hirsch",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T20:44:06-05:00",
+            "created_date": "2025-02-07T12:54:24-05:00",
+            "published_date": "2025-02-07T12:54:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Computers and the Internet",
+                "Venture Capital"
+            ],
+            "org_facet": [
+                "SOFTBANK Corporation",
+                "OpenAI Labs",
+                "DeepSeek Artificial Intelligence Co Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/7openai-funding-pqjk/7openai-funding-pqjk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The companies of Sam Altman and Masayoshi Son, center, have become increasingly close partners.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/7openai-funding-pqjk/7openai-funding-pqjk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The companies of Sam Altman and Masayoshi Son, center, have become increasingly close partners.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/7openai-funding-pqjk/7openai-funding-pqjk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The companies of Sam Altman and Masayoshi Son, center, have become increasingly close partners.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Surgeons Transplant Engineered Pig Kidney Into Fourth Patient",
+            "abstract": "A 66-year-old man from New Hampshire became the fourth person to receive a pig\u2019s kidney.",
+            "url": "https://www.nytimes.com/2025/02/07/health/fourth-pig-kidney-transplant.html",
+            "uri": "nyt://article/648358da-f2a0-54c4-9147-50a425761594",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T22:38:32-05:00",
+            "created_date": "2025-02-07T08:00:06-05:00",
+            "published_date": "2025-02-07T08:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Kidneys",
+                "Transplants",
+                "Pigs",
+                "Genetic Engineering",
+                "Clinical Trials"
+            ],
+            "org_facet": [
+                "Massachusetts General Hospital"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Boston (Mass)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07kidney-06-cfmz/07kidney-06-cfmz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Billy Hickey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07kidney-06-cfmz/07kidney-06-cfmz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Billy Hickey for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/multimedia/07kidney-06-cfmz/07kidney-06-cfmz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Billy Hickey for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "The Musketeers Take Washington + Spotify\u2019s Ghost Music + Tool Time",
+            "abstract": "\u201cThe way to control government is to control the computers\u201d",
+            "url": "https://www.nytimes.com/2025/02/07/podcasts/hardfork-doge-spotify-tools.html",
+            "uri": "nyt://article/dea958a0-68ab-5464-b800-f826661eea55",
+            "byline": "By Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Rachel Dry, Chris Wood, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T14:58:47-05:00",
+            "created_date": "2025-02-07T07:00:05-05:00",
+            "published_date": "2025-02-07T07:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Science and Technology",
+                "Artificial Intelligence"
+            ],
+            "org_facet": [
+                "Spotify",
+                "OpenAI Labs"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/podcasts/07Musk-Hardfork/07Musk-Hardfork-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by The New York Times; Photo: Pool photo by Chip Somodevilla"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/podcasts/07Musk-Hardfork/07Musk-Hardfork-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by The New York Times; Photo: Pool photo by Chip Somodevilla"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/07/podcasts/07Musk-Hardfork/07Musk-Hardfork-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by The New York Times; Photo: Pool photo by Chip Somodevilla"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "C. Richard Kramlich, Early Investor in Silicon Valley, Dies at 89",
+            "abstract": "He was among the first backers of Apple Computer and 3Com, earning windfalls, but it was his humaneness that distinguished him from other venture capitalists.",
+            "url": "https://www.nytimes.com/2025/02/06/technology/c-richard-kramlich-dead.html",
+            "uri": "nyt://article/d77ffc92-e64a-5997-9a88-b828b35a9870",
+            "byline": "By Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T20:14:12-05:00",
+            "created_date": "2025-02-06T16:59:26-05:00",
+            "published_date": "2025-02-06T16:59:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Computers and the Internet",
+                "Entrepreneurship",
+                "Start-ups",
+                "Venture Capital",
+                "Software"
+            ],
+            "org_facet": [
+                "New Enterprise Associates Inc",
+                "Apple Inc"
+            ],
+            "per_facet": [
+                "Kramlich, C Richard"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/05Kramlich--04-cfqz-print1/05Kramlich--04-cfqz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1773,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "C. Richard Kramlich in 1992. He was known for sticking with struggling investments long after others had abandoned them.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/05Kramlich--04-cfqz-print1/05Kramlich--04-cfqz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "C. Richard Kramlich in 1992. He was known for sticking with struggling investments long after others had abandoned them.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/08/multimedia/05Kramlich--04-cfqz-print1/05Kramlich--04-cfqz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "C. Richard Kramlich in 1992. He was known for sticking with struggling investments long after others had abandoned them.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon Says Profits Rose 88% but Cautions Growth May Slow",
+            "abstract": "The company\u2019s cloud computing business showed strong growth, while a forecast for the current quarter disappointed investors.",
+            "url": "https://www.nytimes.com/2025/02/06/technology/amazon-earnings-profits.html",
+            "uri": "nyt://article/72896c31-ee59-547d-b73b-da9bfff15def",
+            "byline": "By Karen Weise",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T20:45:35-05:00",
+            "created_date": "2025-02-06T16:55:12-05:00",
+            "published_date": "2025-02-06T16:55:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Company Reports",
+                "Cloud Computing",
+                "Computers and the Internet",
+                "E-Commerce",
+                "Artificial Intelligence"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "DeepSeek Artificial Intelligence Co Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06AMAZON-jkqb/06AMAZON-jkqb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon has seen customers buy more as the company offers ever faster shipping.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06AMAZON-jkqb/06AMAZON-jkqb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon has seen customers buy more as the company offers ever faster shipping.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06AMAZON-jkqb/06AMAZON-jkqb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amazon has seen customers buy more as the company offers ever faster shipping.",
+                    "copyright": "Maansi Srivastava/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "As Musk Attacks Diversity, Tesla Addressed Racism Complaints",
+            "abstract": "The company\u2019s board pledged to investors that it would pay closer attention to how the company managed workers.",
+            "url": "https://www.nytimes.com/2025/02/06/business/tesla-elon-musk-dei-discrimination.html",
+            "uri": "nyt://article/5f335c4c-7d15-566b-86f7-233583d18685",
+            "byline": "By Jack Ewing",
+            "item_type": "Article",
+            "updated_date": "2025-02-07T12:17:28-05:00",
+            "created_date": "2025-02-06T11:52:25-05:00",
+            "published_date": "2025-02-06T11:52:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Electric and Hybrid Vehicles",
+                "Minorities",
+                "Discrimination",
+                "Workplace Hazards and Violations",
+                "United States Politics and Government",
+                "Appointments and Executive Changes",
+                "Regulation and Deregulation of Industry",
+                "Suits and Litigation (Civil)",
+                "Diversity Initiatives",
+                "Hiring and Promotion"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06tesla-dei-pjbm/06tesla-dei-pjbm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In Tesla\u2019s annual report published last month, the company\u2019s board promised to monitor \u201chow Tesla recruits, develops and retains excellent talent.\u201d",
+                    "copyright": "Lauren Justice for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06tesla-dei-pjbm/06tesla-dei-pjbm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In Tesla\u2019s annual report published last month, the company\u2019s board promised to monitor \u201chow Tesla recruits, develops and retains excellent talent.\u201d",
+                    "copyright": "Lauren Justice for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/06tesla-dei-pjbm/06tesla-dei-pjbm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In Tesla\u2019s annual report published last month, the company\u2019s board promised to monitor \u201chow Tesla recruits, develops and retains excellent talent.\u201d",
+                    "copyright": "Lauren Justice for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors",
+            "abstract": "Mr. Penny, who was acquitted after choking a mentally ill subway passenger who died, was hired to join the firm\u2019s American Dynamism investment team.",
+            "url": "https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html",
+            "uri": "nyt://article/2b7cf8f9-0243-538b-8e87-3b7da16ccd31",
+            "byline": "By Mike Isaac and Hurubie Meko",
+            "item_type": "Article",
+            "updated_date": "2025-02-06T21:28:41-05:00",
+            "created_date": "2025-02-05T22:36:01-05:00",
+            "published_date": "2025-02-05T22:36:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hiring and Promotion",
+                "Computers and the Internet",
+                "Veterans"
+            ],
+            "org_facet": [
+                "Andreessen Horowitz"
+            ],
+            "per_facet": [
+                "Penny, Daniel J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05penny-venture-qzpv/05penny-venture-qzpv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The venture capital firm Andreessen Horowitz told investors that the military experience of Daniel Penny, shown while on trial in November, could help its relationships in the public safety and defense fields. ",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05penny-venture-qzpv/05penny-venture-qzpv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The venture capital firm Andreessen Horowitz told investors that the military experience of Daniel Penny, shown while on trial in November, could help its relationships in the public safety and defense fields. ",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05penny-venture-qzpv/05penny-venture-qzpv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The venture capital firm Andreessen Horowitz told investors that the military experience of Daniel Penny, shown while on trial in November, could help its relationships in the public safety and defense fields. ",
+                    "copyright": "Victor J. Blue for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Google Unwinds Employee Diversity Goals, Citing Trump\u2019s D.E.I. Orders",
+            "abstract": "The Silicon Valley giant also said it was reviewing other diversity programs and initiatives and would update them if they seemed risky or ineffective.",
+            "url": "https://www.nytimes.com/2025/02/05/technology/google-diversity-goals-dei-trump.html",
+            "uri": "nyt://article/e67a628a-e937-52ed-a11c-b53eca576d44",
+            "byline": "By Nico Grant",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T19:32:20-05:00",
+            "created_date": "2025-02-05T17:38:48-05:00",
+            "published_date": "2025-02-05T17:38:48-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Government Contracts and Procurement",
+                "Workplace Hazards and Violations",
+                "Diversity Initiatives",
+                "Computers and the Internet",
+                "United States Politics and Government",
+                "Executive Orders and Memorandums"
+            ],
+            "org_facet": [
+                "Google Inc",
+                "Alphabet Inc"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05google-dei-fmcq/05google-dei-fmcq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google is rethinking its goal of hiring from underrepresented groups and other aspects of its D.E.I. programs.",
+                    "copyright": "Amy Osborne/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05google-dei-fmcq/05google-dei-fmcq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google is rethinking its goal of hiring from underrepresented groups and other aspects of its D.E.I. programs.",
+                    "copyright": "Amy Osborne/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05google-dei-fmcq/05google-dei-fmcq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Google is rethinking its goal of hiring from underrepresented groups and other aspects of its D.E.I. programs.",
+                    "copyright": "Amy Osborne/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "In the Eyes of Right-Wing Media, Trump Just Keeps On Winning",
+            "abstract": "Among an array of pro-Trump personalities and media outlets, the president can do no wrong.",
+            "url": "https://www.nytimes.com/2025/02/05/technology/trump-media-right-wing.html",
+            "uri": "nyt://article/3311a09b-8cbe-5574-8b7c-f78e1fb739c5",
+            "byline": "By Stuart A. Thompson",
+            "item_type": "Article",
+            "updated_date": "2025-02-05T23:52:09-05:00",
+            "created_date": "2025-02-05T11:57:33-05:00",
+            "published_date": "2025-02-05T11:57:33-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Right-Wing Extremism and Alt-Right",
+                "Conservatism (US Politics)",
+                "International Trade and World Market",
+                "Protectionism (Trade)",
+                "Social Media",
+                "News and News Media"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05trump-winning-whgf/05trump-winning-whgf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1347,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In the eyes of right-wing media, President Trump\u2019s first weeks back in the White House have been a success.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05trump-winning-whgf/05trump-winning-whgf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In the eyes of right-wing media, President Trump\u2019s first weeks back in the White House have been a success.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/multimedia/05trump-winning-whgf/05trump-winning-whgf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In the eyes of right-wing media, President Trump\u2019s first weeks back in the White House have been a success.",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "NASA Gave Up a Ride to the Moon. This Startup\u2019s Rover Took It.",
+            "abstract": "After the space agency canceled its VIPER rover, an empty space was available on a private spacecraft that will still head to the lunar surface.",
+            "url": "https://www.nytimes.com/2025/02/05/science/nasa-moon-rover-astrolab-astrobotic.html",
+            "uri": "nyt://article/781ba1bc-ee4e-50ee-aa1c-ed980ceabd57",
+            "byline": "By Kenneth Chang",
+            "item_type": "Article",
+            "updated_date": "2025-02-05T11:45:31-05:00",
+            "created_date": "2025-02-05T10:00:05-05:00",
+            "published_date": "2025-02-05T10:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Moon",
+                "Space and Astronomy",
+                "Private Spaceflight",
+                "Robots and Robotics"
+            ],
+            "org_facet": [
+                "Astrobotic Technology Inc",
+                "Astrolab Inc",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/science/05moon-rover/05moon-rover-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist\u2019s concept of Astrolab's FLIP rover, which will join Astrobotic's Griffin Mission One, scheduled for delivery at the end of 2025.",
+                    "copyright": "Astrolab"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/science/05moon-rover/05moon-rover-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist\u2019s concept of Astrolab's FLIP rover, which will join Astrobotic's Griffin Mission One, scheduled for delivery at the end of 2025.",
+                    "copyright": "Astrolab"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/science/05moon-rover/05moon-rover-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist\u2019s concept of Astrolab's FLIP rover, which will join Astrobotic's Griffin Mission One, scheduled for delivery at the end of 2025.",
+                    "copyright": "Astrolab"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Is Waymo Friend or Foe to Uber?",
+            "abstract": "The fast expansion of Waymo\u2019s driverless car service is growing competition for Uber. The companies are also partners.",
+            "url": "https://www.nytimes.com/2025/02/05/technology/waymo-uber-partnership.html",
+            "uri": "nyt://article/6b6ea61f-281c-5a46-83ad-7e1d5ef2c32c",
+            "byline": "By Eli Tan",
+            "item_type": "Article",
+            "updated_date": "2025-02-09T19:32:51-05:00",
+            "created_date": "2025-02-05T06:55:06-05:00",
+            "published_date": "2025-02-05T06:55:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Car Services and Livery Cabs",
+                "Driverless and Semiautonomous Vehicles",
+                "Computers and the Internet",
+                "Company Reports"
+            ],
+            "org_facet": [
+                "Waymo",
+                "Uber Technologies Inc",
+                "Google Inc",
+                "Lyft Inc"
+            ],
+            "per_facet": [
+                "Khosrowshahi, Dara"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/business/00uber-waymo/00uber-waymo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Zak Bickel/The New York Times; Photographs by Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/business/00uber-waymo/00uber-waymo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Zak Bickel/The New York Times; Photographs by Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/05/business/00uber-waymo/00uber-waymo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Zak Bickel/The New York Times; Photographs by Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "A Professor Put Her Class on TikTok. Thousands Enrolled in a Digital H.B.C.U.",
+            "abstract": "A video welcoming students to Leah Barlow\u2019s African American studies course inspired Hillmantok, a virtual university of free TikTok lectures from Black academics and experts.",
+            "url": "https://www.nytimes.com/2025/02/05/style/hillmantok-tiktok-hbcu.html",
+            "uri": "nyt://article/99da8a6c-7471-5669-b210-23f9ca2fc4e4",
+            "byline": "By Remy Tumin",
+            "item_type": "Article",
+            "updated_date": "2025-02-08T22:49:43-05:00",
+            "created_date": "2025-02-05T05:01:05-05:00",
+            "published_date": "2025-02-05T05:01:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Black People",
+                "Historically Black Colleges and Universities"
+            ],
+            "org_facet": [
+                "North Carolina Agricultural and Technical State University",
+                "Hillmantok University (Web Site)",
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/00xp-hillmantok-01-mqtf/00xp-hillmantok-01-mqtf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leah Barlow on the campus of North Carolina Agricultural and Technical State University in Greensboro, N.C., where she is a liberal studies professor.",
+                    "copyright": "Alycee Byrd for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/00xp-hillmantok-01-mqtf/00xp-hillmantok-01-mqtf-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leah Barlow on the campus of North Carolina Agricultural and Technical State University in Greensboro, N.C., where she is a liberal studies professor.",
+                    "copyright": "Alycee Byrd for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/00xp-hillmantok-01-mqtf/00xp-hillmantok-01-mqtf-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leah Barlow on the campus of North Carolina Agricultural and Technical State University in Greensboro, N.C., where she is a liberal studies professor.",
+                    "copyright": "Alycee Byrd for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "\u2018The Antiquities\u2019 Review: Relics of Late Human Life in 12 Exhibits",
+            "abstract": "According to Jordan Harrison\u2019s museum piece of a play, we are long extinct by 2240. But the future has kept our Betamaxes.",
+            "url": "https://www.nytimes.com/2025/02/04/theater/the-antiquities-review-ai.html",
+            "uri": "nyt://article/76a8ce86-5afd-5295-8004-878f1ba80c74",
+            "byline": "By Jesse Green",
+            "item_type": "Article",
+            "updated_date": "2025-02-06T00:01:49-05:00",
+            "created_date": "2025-02-04T21:00:06-05:00",
+            "published_date": "2025-02-04T21:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "Theater (Off Broadway)",
+                "The Antiquities (Play)"
+            ],
+            "org_facet": [
+                "Playwrights Horizons",
+                "Vineyard Theater",
+                "Goodman Theater"
+            ],
+            "per_facet": [
+                "Harrison, Jordan",
+                "Cromer, David",
+                "Sullivan, Caitlin (Theater Director)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/04ANTIQUITIES-1-kjfg/04ANTIQUITIES-1-kjfg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristen Sieh as a mother comforting her grieving son, played by Julius Rinzel, in a scene set in 1987 in \u201cThe Antiquities,\u201d at Playwrights Horizons in Manhattan.",
+                    "copyright": "Richard Termine for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/04ANTIQUITIES-1-kjfg/04ANTIQUITIES-1-kjfg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristen Sieh as a mother comforting her grieving son, played by Julius Rinzel, in a scene set in 1987 in \u201cThe Antiquities,\u201d at Playwrights Horizons in Manhattan.",
+                    "copyright": "Richard Termine for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/06/multimedia/04ANTIQUITIES-1-kjfg/04ANTIQUITIES-1-kjfg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kristen Sieh as a mother comforting her grieving son, played by Julius Rinzel, in a scene set in 1987 in \u201cThe Antiquities,\u201d at Playwrights Horizons in Manhattan.",
+                    "copyright": "Richard Termine for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Alphabet Revenue Disappoints Investors on Weak Cloud Sales",
+            "abstract": "The internet giant reported cloud sales that narrowly missed Wall Street\u2019s estimates, worrying investors about the company\u2019s A.I. business.",
+            "url": "https://www.nytimes.com/2025/02/04/technology/alphabet-google-earnings.html",
+            "uri": "nyt://article/3170c1d2-3281-5471-b9b0-33d792cb7777",
+            "byline": "By Nico Grant",
+            "item_type": "Article",
+            "updated_date": "2025-02-05T23:55:42-05:00",
+            "created_date": "2025-02-04T16:38:15-05:00",
+            "published_date": "2025-02-04T16:38:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Search Engines",
+                "Company Reports",
+                "Computers and the Internet",
+                "Cloud Computing",
+                "Data Centers"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Google Inc",
+                "DeepSeek Artificial Intelligence Co Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04alphabet-earnings-hfo-fzhj/04alphabet-earnings-hfo-fzhj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The company most known for its search engine has tried to get consumers and businesses around the world to adopt its A.I. offering, named Gemini.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04alphabet-earnings-hfo-fzhj/04alphabet-earnings-hfo-fzhj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The company most known for its search engine has tried to get consumers and businesses around the world to adopt its A.I. offering, named Gemini.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04alphabet-earnings-hfo-fzhj/04alphabet-earnings-hfo-fzhj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The company most known for its search engine has tried to get consumers and businesses around the world to adopt its A.I. offering, named Gemini.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elon Musk\u2019s X Becomes Weapon in Government Cost Cutting",
+            "abstract": "The billionaire has used the social media site to boast of victories, lash out at enemies and conduct polls for the initiative he calls the Department of Government Efficiency.",
+            "url": "https://www.nytimes.com/2025/02/04/technology/elon-musk-x-doge.html",
+            "uri": "nyt://article/9f9ba520-f94b-50a6-917b-8b51c5a271ab",
+            "byline": "By Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2025-02-05T13:01:46-05:00",
+            "created_date": "2025-02-04T14:54:02-05:00",
+            "published_date": "2025-02-04T14:54:02-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "United States Politics and Government",
+                "Conflicts of Interest",
+                "Computers and the Internet",
+                "Federal Budget (US)"
+            ],
+            "org_facet": [
+                "Government Efficiency Department (US)",
+                "X (Formerly Twitter)"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04musk-x-wqcb/04musk-x-wqcb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04musk-x-wqcb/04musk-x-wqcb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04musk-x-wqcb/04musk-x-wqcb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk at President Trump\u2019s inauguration at the U.S. Capitol last month.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What\u2019s at Stake for Google in China?",
+            "abstract": "China said it had started an antitrust investigation of Google, which works with Chinese companies on smartphones and advertising outside the country.",
+            "url": "https://www.nytimes.com/2025/02/04/technology/china-google-antitrust-investigation.html",
+            "uri": "nyt://article/7fb786fc-8a5f-5b43-851a-003e1c0ec6f6",
+            "byline": "By Nico Grant",
+            "item_type": "Article",
+            "updated_date": "2025-02-04T21:36:28-05:00",
+            "created_date": "2025-02-04T13:46:49-05:00",
+            "published_date": "2025-02-04T13:46:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "International Relations",
+                "International Trade and World Market",
+                "Computers and the Internet",
+                "Protectionism (Trade)",
+                "Censorship",
+                "Customs (Tariff)",
+                "Android (Operating System)"
+            ],
+            "org_facet": [
+                "Google Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04google-china-jtqk/04google-china-jtqk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China is the latest among a number of countries that have launched antitrust investigations into Google.",
+                    "copyright": "Greg Baker/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04google-china-jtqk/04google-china-jtqk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China is the latest among a number of countries that have launched antitrust investigations into Google.",
+                    "copyright": "Greg Baker/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/04/multimedia/04google-china-jtqk/04google-china-jtqk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "China is the latest among a number of countries that have launched antitrust investigations into Google.",
+                    "copyright": "Greg Baker/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Musk Allies Discuss Deploying A.I. to Find Budget Savings",
+            "abstract": "A top official at the General Services Administration said artificial intelligence could be used to identify waste and redundancies in federal contracts.",
+            "url": "https://www.nytimes.com/2025/02/03/technology/musk-allies-ai-government.html",
+            "uri": "nyt://article/179d3dd4-7bb0-5513-9dcb-28d07401a715",
+            "byline": "By Kate Conger, Ryan Mac and Madeleine Ngo",
+            "item_type": "Article",
+            "updated_date": "2025-02-04T09:23:32-05:00",
+            "created_date": "2025-02-03T19:26:03-05:00",
+            "published_date": "2025-02-03T19:26:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Government Contracts and Procurement",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-AI-topart-kmlv/03dc-musk-AI-topart-kmlv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Elon Musk\u2019s former employees and allies are now evaluating the use of artificial intelligence through government systems to find budget cuts and detect waste and abuse.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-AI-topart-kmlv/03dc-musk-AI-topart-kmlv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Elon Musk\u2019s former employees and allies are now evaluating the use of artificial intelligence through government systems to find budget cuts and detect waste and abuse.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/03/multimedia/03dc-musk-AI-topart-kmlv/03dc-musk-AI-topart-kmlv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Elon Musk\u2019s former employees and allies are now evaluating the use of artificial intelligence through government systems to find budget cuts and detect waste and abuse.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "OpenAI Unveils A.I. Tool That Can Do Research Online",
+            "abstract": "The tool, called Deep Research, arrives days after OpenAI released another one, which shops for groceries and books restaurant reservations.",
+            "url": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
+            "uri": "nyt://article/79e6b662-d6c6-5c70-a71e-d0839cf0fd7e",
+            "byline": "By Cade Metz",
+            "item_type": "Article",
+            "updated_date": "2025-02-03T23:48:38-05:00",
+            "created_date": "2025-02-02T19:00:05-05:00",
+            "published_date": "2025-02-02T19:00:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Innovation",
+                "Research"
+            ],
+            "org_facet": [
+                "OpenAI Labs"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02openai-deepresearch/02openai-deepresearch-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "While chatbots can answer questions, write poems and generate images, agents like Deep Research can perform tasks using other software and services on the internet.",
+                    "copyright": "OpenAI"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02openai-deepresearch/02openai-deepresearch-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "While chatbots can answer questions, write poems and generate images, agents like Deep Research can perform tasks using other software and services on the internet.",
+                    "copyright": "OpenAI"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/02/02/multimedia/02openai-deepresearch/02openai-deepresearch-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "While chatbots can answer questions, write poems and generate images, agents like Deep Research can perform tasks using other software and services on the internet.",
+                    "copyright": "OpenAI"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
+            "abstract": "General Motors and a few other companies make as much as 40 percent of their North American cars and trucks in Canada and Mexico, leaving them vulnerable to tariffs.",
+            "url": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
+            "uri": "nyt://article/015c74b4-2f1a-5b9c-a2da-a209284ae6fb",
+            "byline": "By Neal E. Boudette",
+            "item_type": "Article",
+            "updated_date": "2025-02-02T22:51:12-05:00",
+            "created_date": "2025-02-01T20:00:57-05:00",
+            "published_date": "2025-02-01T20:00:57-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Automobiles",
+                "International Trade and World Market",
+                "Protectionism (Trade)",
+                "Customs (Tariff)",
+                "Factories and Manufacturing",
+                "Sports Utility Vehicles and Light Trucks",
+                "United States International Relations",
+                "United States Economy",
+                "Presidential Election of 2024",
+                "Layoffs and Job Reductions"
+            ],
+            "org_facet": [
+                "General Motors",
+                "Ford Motor Co",
+                "Stellantis NV",
+                "Toyota Motor Corp",
+                "Volkswagen AG",
+                "Linamar Corporation",
+                "Honda Motor Co Ltd"
+            ],
+            "per_facet": [
+                "Barra, Mary T",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Canada",
+                "Mexico",
+                "United States",
+                "Ontario (Canada)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31auto-tariffs-01-hkjm/31auto-tariffs-01-hkjm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Motors trucks outside the company\u2019s factory in Silao, Mexico. The automaker produces more vehicles in Mexico than any other American manufacturer.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31auto-tariffs-01-hkjm/31auto-tariffs-01-hkjm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Motors trucks outside the company\u2019s factory in Silao, Mexico. The automaker produces more vehicles in Mexico than any other American manufacturer.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/01/31/multimedia/31auto-tariffs-01-hkjm/31auto-tariffs-01-hkjm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "General Motors trucks outside the company\u2019s factory in Silao, Mexico. The automaker produces more vehicles in Mexico than any other American manufacturer.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
